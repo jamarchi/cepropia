@@ -1,0 +1,25 @@
+[{
+	"location"   : "Austin-Bergstrom International Airport, Tx",
+	"city"       : "Austin",
+	"state"      : "Tx",
+	"weather"    : "overcast",
+	"tempF"      : 49.5,
+	"tempC"      : 9.4,
+	"detailsSvc" : "/services/aus.json"
+},{
+	"location"   : "Los Angeles Intl Airport, CA",
+	"city"       : "Los Angeles",
+	"state"      : "Ca",
+	"weather"    : "sunny",
+	"tempF"      : 55.0,
+	"tempC"      : 12.8,
+	"detailsSvc" : "/services/la.json"
+},{
+	"location"   : "Washington, DC",
+	"city"       : "Washington",
+	"state"      : "Dc",
+	"weather"    : "rain",
+	"tempF"      : 43.5,
+	"tempC"      : 4.5,
+	"detailsSvc" : "/services/dc.json"
+}]

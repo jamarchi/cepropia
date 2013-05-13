@@ -1,0 +1,15 @@
+{
+	"location"        : "Washington, DC",
+	"city"            : "Washington",
+	"state"           : "DC",
+	"observationTime" : 1362670000,
+	"weather"         : "rain",
+	"tempF"           : 43.5,
+	"tempC"           : 4.5,
+	"windDir"         : "West",
+	"windMph"         : 14,
+	"dewPointF"       : 50.0,
+	"dewPointC"       : 13.6,
+	"visibilityMiles" : 2,
+	"rainChance"      : "100%"
+}

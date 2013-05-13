@@ -1,0 +1,95 @@
+@charset "utf-8";
+/* CSS Document 
+Sitio               : Willmar Express.com
+Fecha               : Marzo 2013
+Diseño y Desarrollo : Publiwebcr.com
+Site                : www.publiwebcr.com
+*/
+
+p, h1, h2, h3 {
+    margin          : 0;
+    padding         : 0;
+}
+
+a {
+	text-decoration:none;
+}
+
+img{border-style    : none;}
+
+@font-face {
+	font-family: 'Alex';
+	src:url(../font/Alex_Brush_ROB.ttf)	
+}
+
+body {
+	margin:0px;
+	background-image:url(../images/bg.jpg);
+	background-repeat:repeat;
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:12px;
+}
+
+html{}
+/***********************************/
+#wraper{
+	width: 900px;
+	margin:0 auto;
+	overflow:hidden;
+}
+
+#banner{
+	background-image:url(../images/banner.png);
+	background-repeat:no-repeat;
+	width:900px;
+	height:200px;
+	padding-bottom: 20px;
+}
+
+#left{
+	width:200px;
+	
+	min-height: 400px;
+	float:left;
+}
+
+#left .info{
+	width:180px;
+	margin:10px auto;
+	padding-bottom: 10px;
+	
+}
+
+#left .info .title{
+	font-family:Alex;
+	font-size:28px;
+	font-weight:bold;
+	color:#0000FF;
+	margin: 5px auto;
+	padding-bottom:10px;
+}
+
+#left .info .city{
+	font-family:Verdana, Geneva, sans-serif
+	font-size:12px;
+	font-weight:bold;
+	margin: -5px auto;
+	padding-bottom:30px;
+	text-align:center;
+}
+
+#right{
+	width:690px;
+	background-color:#0F3;
+	
+	-webkit-box-shadow: 0 0 5px rgba(0,0,0,.75); 
+	-moz-box-shadow: 0 0 5px rgba(0,0,0,.75); 
+	box-shadow: 0 0 5px rgba(0,0,0,.75);
+	
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	
+	min-height: 400px;
+	float:left;
+}

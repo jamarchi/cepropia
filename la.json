@@ -1,0 +1,15 @@
+{
+	"location"        : "Los Angeles Intl Airport, CA",
+	"city"            : "Los Angeles",
+	"state"           : "Ca",
+	"observationTime" : 1362672780,
+	"weather"         : "sunny",
+	"tempF"           : 55.0,
+	"tempC"           : 12.8,
+	"windDir"         : "South",
+	"windMph"         : 10,
+	"dewPointF"       : 10.9,
+	"dewPointC"       : 0.9,
+	"visibilityMiles" : 50,
+	"rainChance"      : "0%"
+}

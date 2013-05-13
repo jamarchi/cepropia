@@ -1,0 +1,15 @@
+﻿{
+	"location"        : "Austin-Bergstrom International Airport, Tx",
+	"city"            : "Austin",
+	"state"           : "Tx",
+	"observationTime" : 1362669840,
+	"weather"         : "overcast",
+	"tempF"           : 49.5,
+	"tempC"           : 9.4,
+	"windDir"         : "North",
+	"windMph"         : 1,
+	"dewPointF"       : 39.9,
+	"dewPointC"       : 4.4,
+	"visibilityMiles" : 10,
+	"rainChance"      : "10%"
+}
